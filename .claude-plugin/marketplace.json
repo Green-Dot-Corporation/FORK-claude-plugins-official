@@ -1313,7 +1313,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "e77e37e8a4dabbe2662b680c180bb72a05eca48d"
+        "sha": "a2a218de0afe8a22b70e98f6715be948f7b1c9c4"
       },
       "homepage": "https://developers.databricks.com/"
     },
